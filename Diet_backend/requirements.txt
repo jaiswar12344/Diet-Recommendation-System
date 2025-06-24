@@ -1,0 +1,8 @@
+# diet_backend/requirements.txt
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
