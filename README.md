@@ -1,7 +1,6 @@
 # 🥗 Diet Recommendation System
 
-A Machine Learning-powered system that recommends personalized diet plans and recipes based on user preferences and nutritional goals. Developed as part of my internship at **Feynn Labs** under the guidance of **Mr. Sanjay Basumatary**, this project combines data science, intelligent modeling, and web deployment into one complete solution.
-
+Developed an ML-powered system to recommend personalized diet plans based on nutritional goals and user preferences. Performed data cleaning, feature engineering, and model training using Scikit-learn. Built a user-friendly web interface with Streamlit and deployed the solution on Hugging Face Spaces. The system allows users to input dietary preferences and returns relevant, nutritionally balanced meal suggestions with visual insights. Achieved high model accuracy and created a scalable architecture for future health integrations.
 ---
 
 ## 🔍 Project Summary (For Portfolio)
@@ -23,11 +22,8 @@ Developed an ML-powered system to recommend personalized diet plans based on nut
 - [Getting Started](#getting-started)
 - [Model Workflow](#model-workflow)
 - [Results](#results)
-- [Demo](#demo)
 - [Author](#author)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-- [Contributing](#contributing)
+- 
 
 ---
 
@@ -97,3 +93,9 @@ Achieved 96%+ accuracy for diet recommendation tasks.
 Offered real-time, interactive filtering through the Streamlit UI.
 
 Provided visual analysis of nutrients and correlations using heatmaps.
+
+👨‍💻 Author
+Rohan Jaiswar
+📌 Machine Learning Engineer Intern @ Feynn Labs
+📫 rohanjaiswar7@gmail.com
+
