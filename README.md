@@ -14,8 +14,6 @@ Developed an ML-powered system to recommend personalized diet plans based on nut
 **Role:** Machine Learning Engineer Intern @ Feynn Labs  
 **Mentor:** Mr. Sanjay Basumatary  
 
-Developed an ML-powered system to recommend personalized diet plans based on nutritional goals and user preferences. Performed data cleaning, feature engineering, and model training using Scikit-learn. Built a user-friendly web interface with Streamlit and deployed the solution on Hugging Face Spaces. The system allows users to input dietary preferences and returns relevant, nutritionally balanced meal suggestions with visual insights. Achieved high model accuracy and created a scalable architecture for future health integrations.
-
 ---
 
 ## 📌 Table of Contents
@@ -103,4 +101,7 @@ Provided visual analysis of nutrients and correlations using heatmaps.
 Rohan Jaiswar
 📌 Machine Learning Engineer Intern @ Feynn Labs
 📫 rohanjaiswar7@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/rohan-jaiswar-162680246/)
+
+
 
