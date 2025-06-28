@@ -59,7 +59,7 @@ This system helps individuals find diet plans and meal suggestions tailored to t
 
 ## 📁 Project Structure
 
-Diet_Recommendation_System/
+#Diet_Recommendation_System/
 │
 ├── Diet_backend/
 │ ├── raw_dataset_compressed.pkl.gz # Preprocessed dataset
