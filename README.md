@@ -1,9 +1,14 @@
 # 🥗 Diet Recommendation System
 
-Developed an ML-powered system to recommend personalized diet plans based on nutritional goals and user preferences. Performed data cleaning, feature engineering, and model training using Scikit-learn. Built a user-friendly web interface with Streamlit and deployed the solution on Hugging Face Spaces. The system allows users to input dietary preferences and returns relevant, nutritionally balanced meal suggestions with visual insights. Achieved high model accuracy and created a scalable architecture for future health integrations.
+A Machine Learning-powered system to recommend personalized diet plans based on nutritional goals and user preferences.
+
 ---
 
-## 🔍 Project Summary (For Portfolio)
+## 📖 Project Summary
+
+Developed an ML-powered system to recommend personalized diet plans based on nutritional goals and user preferences. Performed data cleaning, feature engineering, and model training using Scikit-learn. Built a user-friendly web interface with Streamlit and deployed the solution on Hugging Face Spaces. The system allows users to input dietary preferences and returns relevant, nutritionally balanced meal suggestions with visual insights. Achieved high model accuracy and created a scalable architecture for future health integrations.
+
+---
 
 **Tools:** Python, Scikit-learn, Pandas, Streamlit, Hugging Face Spaces  
 **Role:** Machine Learning Engineer Intern @ Feynn Labs  
